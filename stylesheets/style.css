@@ -1,0 +1,18 @@
+body {
+    background-color: azure;
+}
+
+header {
+    background-color: crimson;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 3rem;
+}
+
+footer {
+    margin-top: 2rem;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
