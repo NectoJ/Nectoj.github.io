@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", {data:[{articles:[{slug:"my-first-blog-post",title:"How I created this blog",description:"How I used NuxtJS to create this single page blog",img:"first-blog-post.jpg",author:{name:"Jamie",bio:"All about Jamie",img:"something.png",alt:"placeholder for Jamie.png"}}],tags:[{name:"Javascript"},{name:"Programming"}]}],fetch:[],mutations:void 0});
