@@ -44,7 +44,7 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/vuetify
     '@nuxtjs/vuetify',
-  ],
+  ], 
 
   // Modules (https://go.nuxtjs.dev/config-modules)
   modules: [
