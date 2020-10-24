@@ -1,0 +1,70 @@
+html {
+  background-color: #E5E5E5;
+}
+
+body {
+  font-family: 'nunito-regular', sans-serif;
+  max-width: 70em;
+  min-height: 100vh;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+p {
+  font-family: 'nunito-regular', sans-serif;
+  font-size: 1.10em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'nunito-bold', sans-serif;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.17em;
+}
+
+h4 {
+  font-size: 1.12em;
+}
+
+h5 {
+  font-size: .83em;
+}
+
+h6 {
+  font-size: .75em;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  color: #6631ff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#__nuxt,
+#__layout {
+  height: 100vh;
+}
